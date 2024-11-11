@@ -1,4 +1,4 @@
-# Number Guessing Game with REACT + VITE
+# First Spring Boot App
 
 ## Description
 In this repository, you will find a simple message in the page.
